@@ -1,5 +1,5 @@
 <?php
-$conexion = mysqli_connect("https://github.com/Edwardpv2123/FreeFirePrueba.git", "root", "", "bd_prueba");
+$conexion = mysqli_connect("https://edwardpv2123.github.io/FreeFirePrueba/", "root", "", "bd_prueba");
 //if (!$conexion) {
 //    echo 'Error al conectar a la base de datos';
 //}
